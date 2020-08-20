@@ -1,0 +1,15 @@
+div {
+	color: yellow;
+}
+
+p {
+	color: black;
+	font-size: 25px; 
+	font-weight: bold;
+	margin-left: 5px;
+	margin: 5px; 
+	background-color: gray;
+	border-radius: 30px;
+	height: 30px;
+	text-align: center;
+}
